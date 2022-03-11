@@ -1,0 +1,3 @@
+﻿  Task2.cpp
+C:\Users\hloiv\source\repos\Urok_14Lines\Task2\Task2.cpp(24,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Task2.vcxproj -> C:\Users\hloiv\source\repos\Urok_14Lines\Task2\x64\Debug\Task2.exe

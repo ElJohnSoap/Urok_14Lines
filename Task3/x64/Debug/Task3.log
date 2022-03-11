@@ -1,0 +1,3 @@
+﻿  Task3.cpp
+C:\Users\hloiv\source\repos\Urok_14Lines\Task3\Task3.cpp(13,21): warning C4101: 'string2': unreferenced local variable
+  Task3.vcxproj -> C:\Users\hloiv\source\repos\Urok_14Lines\Task3\x64\Debug\Task3.exe
